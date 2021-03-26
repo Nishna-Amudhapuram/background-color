@@ -1,0 +1,6 @@
+from colorama import init, Back
+init()
+print(Back.MAGENTA+"Yellow Background")
+print(Back.BLUE+"green back ground")
+print(Back.GREEN+"blue background")
+print(Back.RESET)
